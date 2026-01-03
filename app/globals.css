@@ -1,1 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --pl-purple:#38003c;
+  --pl-pink:#e90052;
+  --pl-green:#00ff85;
+  --pl-cyan:#04f5ff;
+}
+
+body{
+  background:#fff;
+  color:#141414;
+}
 
